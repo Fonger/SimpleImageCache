@@ -1,7 +1,8 @@
 SimpleImageCache
 ================
 
-Simple image downloading and caching class for Swift apps. Compatible with iOS7.
+Simple image downloading and caching class for Swift apps. Compatible with iOS7+.
+Tested with Xcode 6.x (Swift 1.2) Xcode 7.0 (Swift 2.0)
 
 Full explanation is in: http://dinethmendis.com/blog/swift-image-cache-compatible-with-ios7
 
